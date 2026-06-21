@@ -1,0 +1,16 @@
+{
+  "name": "cybercore-bot",
+  "version": "1.0.0",
+  "description": "Bot de recrutamento da CyberCore",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "register": "node register.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}

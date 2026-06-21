@@ -1,0 +1,9 @@
+{
+  "_note": "Não coloque tokens aqui. Use os Secrets do Replit (variáveis de ambiente).",
+  "_vars_necessarias": {
+    "DISCORD_TOKEN": "Token do bot (Portal do Desenvolvedor > Bot > Token)",
+    "DISCORD_CLIENT_ID": "ID do bot (Portal do Desenvolvedor > General Information > Application ID)",
+    "CANAL_ANALISE_ID": "ID do canal onde as análises serão enviadas",
+    "CARGO_STAFF_ID": "ID do cargo que será dado aos aprovados"
+  }
+}
